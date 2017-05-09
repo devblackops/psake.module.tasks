@@ -1,7 +1,7 @@
 
 # psake Module Tasks
 
-This is an work in progress example of hosting [psake](https://github.com/psake/psake) tasks inside a standalone PowerShell module and invoking those tasks withing a psake script.
+This is an work in progress example of hosting [psake](https://github.com/psake/psake) tasks inside a standalone PowerShell module and invoking those tasks within a psake script.
 
 ## Usage
 
